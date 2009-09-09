@@ -1,0 +1,7 @@
+
+wanted to make sure the nokogiri gem works on heroku.com
+
+took example code from the readme here
+
+http://github.com/tenderlove/nokogiri/tree/master
+
