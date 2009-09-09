@@ -1,4 +1,4 @@
 
-require 'nokogiri'
+require 'nokogiri-app'
 run Sinatra::Application
 
